@@ -12,6 +12,10 @@
     "start:dev": "DEBUG=http nodemon --exec babel-node ./api/index.js",
     "test": "export NODE_ENV=test && sequelize db:migrate:undo:all && sequelize db:migrate && nyc --require @babel/register mocha ./api/test/test.js --timeout 20000 --exit"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetKazuki/BookApp-API.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

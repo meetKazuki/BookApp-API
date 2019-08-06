@@ -1,4 +1,7 @@
 # BookApp API
+[![Build Status](https://travis-ci.org/meetKazuki/BookApp-API.svg?branch=master)](https://travis-ci.org/meetKazuki/BookApp-API)
+[![Coverage Status](https://coveralls.io/repos/github/meetKazuki/BookApp-API/badge.svg?branch=master)](https://coveralls.io/github/meetKazuki/BookApp-API?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/cff39e00b755049e2e36/maintainability)](https://codeclimate.com/github/meetKazuki/BookApp-API/maintainability)
 
 ## Technologies Used
 * ExpressJS
